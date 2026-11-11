@@ -4,3 +4,5 @@ numpy
 scipy
 joblib
 threadpoolctl
+streamlit
+scikit-learn
